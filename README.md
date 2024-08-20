@@ -45,5 +45,7 @@ This project focuses on predicting whether a star is a pulsar using machine lear
 
 
 ## Authors
-
-* [www.linkedin.com/in/mohamed-mosaad-85840b254](https://www.github.com/octokatherine)
+<div align="center">
+ <a href="https://www.linkedin.com/in/mohamed-mosaad-85840b254" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
