@@ -10,11 +10,13 @@ Data Import: Load and combine the training and test datasets.
 
 Exploratory Data Analysis (EDA):
 
- -Examine dataset dimensions and summary statistics.
+ **Examine dataset dimensions and summary statistics.**
+ 
  -Analyze the distribution of the target class and identify potential issues, such as missing data and class imbalance.
 Data Preprocessing:
 
 -Handle missing values by imputing with median values, which is more appropriate due to the skewness of the data.
+
 -Visualize and handle outliers using SVM.
 
 Feature Engineering:
